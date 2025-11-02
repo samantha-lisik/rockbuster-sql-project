@@ -27,7 +27,7 @@ These insights were used to guide Rockbuster’s online strategy and identify op
 ## 📁 Repository Contents
 | Folder/File | Description |
 |--------------|-------------|
-| `queries/` | SQL scripts used for data exploration and answering business questions |
+| `SQL_queries/` | SQL scripts used for data exploration and answering business questions |
 | `erd/Rockbuster_ERD.pdf` | Entity Relationship Diagram illustrating database structure and relationships |
 | `project_brief/Rockbuster_Project_Brief.pdf` | Official project brief outlining business goals, analytical objectives, and deliverables |
 | `data_dictionary/Rockbuster_Data_Dictionary.pdf` | Data dictionary describing tables, fields, and keys used in the Rockbuster database |
