@@ -21,10 +21,9 @@ These insights were used to guide Rockbuster’s online strategy and identify op
 - **Database:** PostgreSQL
 - **Languages:** SQL  
 - **Techniques:** Joins, subqueries, CTEs, aggregations, filtering  
-- **Documentation:** Entity Relationship Diagram (ERD), Data Dictionary
+- **Documentation:** Project Brief, Entity Relationship Diagram (ERD), Data Dictionary
 - **Visualization:** Tableau
 
-## 📁 Repository Contents
 ## 📁 Repository Contents
 | Folder/File | Description |
 |--------------|-------------|
