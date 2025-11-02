@@ -40,7 +40,7 @@ These insights were used to guide Rockbuster’s online strategy and identify op
 
 ## 📊 Visualizations
 The results were visualized using Tableau.  
-👉 [View the Tableau Dashboard](https://public.tableau.com/app/profile/samantha.lisik/viz/RockbusterProject_17591545097540/RockbusterProject)
+👉 [View the Tableau Dashboard]([https://public.tableau.com/app/profile/samantha.lisik/viz/RockbusterProject_17591545097540/RockbusterProject](https://public.tableau.com/views/RockbusterCustomerData_17621034828640/Story?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ## 🧾 Acknowledgement
 This project was completed as part of the **CareerFoundry Data Analytics Program** to develop SQL querying, data cleaning, and business intelligence skills.
