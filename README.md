@@ -22,7 +22,7 @@ These insights were used to guide Rockbuster’s online strategy and identify op
 - **Languages:** SQL  
 - **Techniques:** Joins, subqueries, CTEs, aggregations, filtering  
 - **Documentation:** Project Brief, Entity Relationship Diagram (ERD), Data Dictionary
-- **Visualization:** Tableau
+- **Visualization:** Tableau Public
 
 ## 📁 Repository Contents
 | Folder/File | Description |
